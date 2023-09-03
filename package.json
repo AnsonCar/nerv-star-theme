@@ -1,0 +1,23 @@
+{
+  "name": "nerv-star-theme",
+  "displayName": "NERV_STAR_Theme",
+  "publisher": "AnsonCar",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "pricing": "Free",
+  "contributes": {
+    "themes": [
+      {
+        "label": "nerv_star02",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nerv_star02-theme.json"
+      }
+    ]
+  }
+}
