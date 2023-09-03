@@ -1,21 +1,21 @@
-# nerv-star-theme README
+<h1 align="center"><b>nerv-star-theme README</b></h1>
+<p align="center">
+    <img width="1920px" src="./public/show01.png" >
+</p>
 
-## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<p align="center">this is a theme for EVA Nerv</p>
+<p align="center"></p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-## For more information
+## 下載
+**查看 [vsc marketplace](https://marketplace.visualstudio.com/items?itemName=AnsonCar.nerv-star-theme)**
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
 
 ## 感謝
 - 感謝 https://www.jianshu.com/p/2ad70a891100 的教學  
 - 感謝 https://github.com/karminski/EVA-theme 的樣式
 - 感謝 SB [vscode](https://code.visualstudio.com/api/references/theme-color#input-control)的文檔，加多幾張圖顯示清楚api對應地方會死嗎。
+
+## 查閱更多
+**查看 [Change Log(更新日志)](doc/changelog.md)**

@@ -1,5 +1,3 @@
-這是你提供的一個 Sublime Text 的主題設定，其中包含了不同程式碼元素的顏色設定。以下是每個用途和對應的顏色（以 HEX 表示）：
-
 1. Background: #280000 /
 2. Caret: #bbbb33
 3. Foreground: #6a8e1d /
