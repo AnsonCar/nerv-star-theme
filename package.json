@@ -3,7 +3,7 @@
   "displayName": "NERV_STAR_Theme",
   "publisher": "AnsonCar",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -14,7 +14,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "nerv_star02",
+        "label": "STAR_theme",
+        "uiTheme": "vs",
+        "path": "./themes/STAR-theme.json"
+      },
+      {
+        "label": "NERV_theme",
         "uiTheme": "vs-dark",
         "path": "./themes/nerv_star02-theme.json"
       }
