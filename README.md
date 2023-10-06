@@ -1,9 +1,9 @@
 <h1 align="center"><b>nerv-star-theme README</b></h1>
 <p align="center">
 <br />
-<img width="1920px" src="https://raw.githubusercontent.com/AnsonCar/nerv-star-theme/master/public/show01.png" >
+<img width="1920px" style="box-shadow: 5px 5px #ADCAF0;" src="https://raw.githubusercontent.com/AnsonCar/nerv-star-theme/master/public/show01.png" >
 <br />
-<img width="1920px" src="https://raw.githubusercontent.com/AnsonCar/nerv-star-theme/master/public/show02.png" 
+<img width="1920px" style="box-shadow: 5px 5px #ADCAF0;" src="https://raw.githubusercontent.com/AnsonCar/nerv-star-theme/master/public/show02.png" 
 </p>
 
 
