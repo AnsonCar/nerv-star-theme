@@ -3,7 +3,7 @@
   "displayName": "NERV_STAR_Theme",
   "publisher": "AnsonCar",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.81.0"
   },
